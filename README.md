@@ -1,4 +1,4 @@
 # Secure-Authentication
 
-authentication page using flutter synonyms to post on github.
+Login and Registration Page using Firebase ,Flutter and Dart.
 
